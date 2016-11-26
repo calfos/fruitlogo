@@ -1,0 +1,68 @@
+body{
+	background-color: #f0f5f5;
+}
+nav{
+	margin-top: 50px;
+}
+.jumbotron{
+	margin-top: -50px;
+	background-color: #b3cccc;
+}
+.login{
+	margin-right: 75px;
+}
+input{
+	width:200px;
+	border-radius: 30px;
+}
+.btn-group{
+	margin-left: 80px;
+	margin-bottom: -40px;
+
+}
+
+.pic3{
+	margin-top:-190px;
+	margin-right: 390px;
+	height: 330px;
+	border-radius: 200px;
+
+}
+h1{
+	width:25px;
+	margin-left: 100px;
+	padding-top: 50px;
+
+}
+.reg{
+	background-color:#ff3300;
+	margin-left: 50px;
+	width:120px;
+}
+.fruitlogo{
+	text-align: left;
+	margin-left: 50px;
+	padding-bottom: 10px;
+	font-size: 35px;
+}
+.small{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.wrapper{
+	height:70px;
+	background-color: red;
+	margin-top: 10px;
+	padding-top: 6px;
+}
+.bgd{
+	background-color: black;
+	color: white;
+	height: 40px;
+	padding-top: 10px;
+}
+
+.container .row{
+	clear: both;
+}
